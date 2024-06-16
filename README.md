@@ -1,4 +1,4 @@
-<h1>Sistema de Autenticação e Autorização</h1>
+-<h1>Sistema de Autenticação e Autorização</h1>
 <text>Este projeto foi desenvolvido para a aula de Arquitetura de Aplicações Web. Ele visa a implementação de uma API REST utilizando Spring Boot e autenticando com JWT (JSON Web Token). A API é configurada para o gerenciamento de usuários como (ADMIN, MODERADOR e USUARIOS COMUNS) e o controle dos acessos de forma segura.</text>
 
 <h3>Resumo</h3>
@@ -14,12 +14,12 @@
 <li>Insomnia</li>
 
 <h3>Endpoints disponíveis</h3>
-<text>POST /login: Endpoint para obter uma autenticação JWT</text>
-<text>GET /username/{token}: Rota que obtém o Token JWT para um usuário</text>
-<text>GET /user: Rota que obtém informações sobre usuários autenticados</text>
-<text>GET /admin: Rota acessada apenas por um usuário ADMIN</text>
-<text>GET /moderador: Rota acessada apenas por um usuário MODERADOR</text>
-<text>GET /usuarioComum: Rota acessada por administradores, moderadores e usuarios comuns</text>
+<h4>POST /login: Endpoint para obter uma autenticação JWT</h4>
+<h4>GET /username/{token}: Rota que obtém o Token JWT para um usuário</h4>
+<h4>GET /user: Rota que obtém informações sobre usuários autenticados</h4>
+<h4>GET /admin: Rota acessada apenas por um usuário ADMIN</h4>
+<h4>GET /moderador: Rota acessada apenas por um usuário MODERADOR</h4>
+<h4>GET /usuarioComum: Rota acessada por administradores, moderadores e usuarios comuns</h4>
 
 <h3>Estrutura do Projeto</h3>
 (Application) Onde rodaremos a aplicação
