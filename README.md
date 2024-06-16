@@ -14,12 +14,12 @@
 <li>Insomnia</li>
 
 <h3>Endpoints disponíveis</h3>
-<h5>POST /login: Endpoint para obter uma autenticação JWT</h5>
-<h5>GET /username/{token}: Rota que obtém o Token JWT para um usuário</h5>
-<h5>GET /user: Rota que obtém informações sobre usuários autenticados</h5>
-<h5>GET /admin: Rota acessada apenas por um usuário ADMIN</h5>
-<h5>GET /moderador: Rota acessada apenas por um usuário MODERADOR</h5>
-<h5>GET /usuarioComum: Rota acessada por administradores, moderadores e usuarios comuns</h5>
+<p>POST /login: Endpoint para obter uma autenticação JWT</p>
+<p>GET /username/{token}: Rota que obtém o Token JWT para um usuário</p>
+<p>GET /user: Rota que obtém informações sobre usuários autenticados</p>
+<p>GET /admin: Rota acessada apenas por um usuário ADMIN</p>
+<p>GET /moderador: Rota acessada apenas por um usuário MODERADOR</p>
+<p>GET /usuarioComum: Rota acessada por administradores, moderadores e usuarios comuns</p>
 
 <h3>Estrutura do Projeto</h3>
 <h5>(Application) Onde rodaremos a aplicação</h5>
