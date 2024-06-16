@@ -15,26 +15,26 @@
 
 <h3>Endpoints disponíveis</h3>
 <h5>POST /login: Endpoint para obter uma autenticação JWT</h5>
-<h4>GET /username/{token}: Rota que obtém o Token JWT para um usuário</h4>
-<h4>GET /user: Rota que obtém informações sobre usuários autenticados</h4>
-<h4>GET /admin: Rota acessada apenas por um usuário ADMIN</h4>
-<h4>GET /moderador: Rota acessada apenas por um usuário MODERADOR</h4>
-<h4>GET /usuarioComum: Rota acessada por administradores, moderadores e usuarios comuns</h4>
+<h5>GET /username/{token}: Rota que obtém o Token JWT para um usuário</h5>
+<h5>GET /user: Rota que obtém informações sobre usuários autenticados</h5>
+<h5>GET /admin: Rota acessada apenas por um usuário ADMIN</h5>
+<h5>GET /moderador: Rota acessada apenas por um usuário MODERADOR</h5>
+<h5>GET /usuarioComum: Rota acessada por administradores, moderadores e usuarios comuns</h5>
 
 <h3>Estrutura do Projeto</h3>
-(Application) Onde rodaremos a aplicação
-(Config) Onde é configurado os logins, permissoes e restrições de acesso
-(Controller) Onde há controladores que lidam com as requisições HTTP
-(Model) Onde temos as requisições
-(Repository) Onde fica responsável pela interação com o banco de dados
-(Security) Onde se faz operações relacionadas ao JWT 
-(Service) Onde ficam os serviços da aplicação 
+<h5>(Application) Onde rodaremos a aplicação</h5>
+<h5>(Config) Onde é configurado os logins, permissoes e restrições de acesso</h5>
+<h5>(Controller) Onde há controladores que lidam com as requisições HTTP</h5>
+<h5>(Model) Onde temos as requisições</h5>
+<h5>(Repository) Onde fica responsável pela interação com o banco de dados</h5>
+<h5>(Security) Onde se faz operações relacionadas ao JWT </h5>
+<h5>(Service) Onde ficam os serviços da aplicação </h5>
 
 <h3>Autenticação</h3>
 Este sistema utiliza o JWT (Jason Web Token) como método de autenticação utilizando uma chave Token JWT.
 
 <h3>Respostas de retornos</h3>
-[200 OK] Requisição autorizada com sucesso.
-[401 Unautorizhed] Não autorizado, senha ou usuário incorreto.
-[403 Forbidden] Usuário não possui autorização para este acesso.
+<h5>[200 OK] Requisição autorizada com sucesso.</h5>
+<h5>[401 Unautorizhed] Não autorizado, senha ou usuário incorreto.</h5>
+<h5>[403 Forbidden] Usuário não possui autorização para este acesso.</h5>
 
