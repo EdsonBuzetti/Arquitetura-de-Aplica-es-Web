@@ -14,7 +14,7 @@
 <li>Insomnia</li>
 
 <h3>Endpoints disponíveis</h3>
-<h4>POST /login: Endpoint para obter uma autenticação JWT</h4>
+<h6>POST /login: Endpoint para obter uma autenticação JWT</h6>
 <h4>GET /username/{token}: Rota que obtém o Token JWT para um usuário</h4>
 <h4>GET /user: Rota que obtém informações sobre usuários autenticados</h4>
 <h4>GET /admin: Rota acessada apenas por um usuário ADMIN</h4>
