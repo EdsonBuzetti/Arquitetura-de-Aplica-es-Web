@@ -3,4 +3,4 @@
 
 <h3>Endpoints disponíveis</h3>
 <text><li>POST /login: Endpoint para obter uma autenticação JWT</li></text>
-<http://localhost:8080/login>
+[Login](http://localhost:8080/login)
