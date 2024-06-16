@@ -1,5 +1,5 @@
 -<h1>Sistema de Autenticação e Autorização</h1>
-<text>Este projeto foi desenvolvido para a aula de Arquitetura de Aplicações Web. Ele visa a implementação de uma API REST utilizando Spring Boot e autenticando com JWT (JSON Web Token). A API é configurada para o gerenciamento de usuários como (ADMIN, MODERADOR e USUARIOS COMUNS) e o controle dos acessos de forma segura.</text>
+<p>Este projeto foi desenvolvido para a aula de Arquitetura de Aplicações Web. Ele visa a implementação de uma API REST utilizando Spring Boot e autenticando com JWT (JSON Web Token). A API é configurada para o gerenciamento de usuários como (ADMIN, MODERADOR e USUARIOS COMUNS) e o controle dos acessos de forma segura.</p>
 
 <h3>Resumo</h3>
 <li>Ferramentas utilizadas</li>
@@ -22,19 +22,19 @@
 <p>GET /usuarioComum: Rota acessada por administradores, moderadores e usuarios comuns</p>
 
 <h3>Estrutura do Projeto</h3>
-<h5>(Application) Onde rodaremos a aplicação</h5>
-<h5>(Config) Onde é configurado os logins, permissoes e restrições de acesso</h5>
-<h5>(Controller) Onde há controladores que lidam com as requisições HTTP</h5>
-<h5>(Model) Onde temos as requisições</h5>
-<h5>(Repository) Onde fica responsável pela interação com o banco de dados</h5>
-<h5>(Security) Onde se faz operações relacionadas ao JWT </h5>
-<h5>(Service) Onde ficam os serviços da aplicação </h5>
+<p>(Application) Onde rodaremos a aplicação</p>
+<p>(Config) Onde é configurado os logins, permissoes e restrições de acesso</p>
+<p>(Controller) Onde há controladores que lidam com as requisições HTTP</p>
+<p>(Model) Onde temos as requisições</h5>
+<p>(Repository) Onde fica responsável pela interação com o banco de dados</p>
+<p>(Security) Onde se faz operações relacionadas ao JWT </p>
+<p>(Service) Onde ficam os serviços da aplicação </p>
 
 <h3>Autenticação</h3>
-Este sistema utiliza o JWT (Jason Web Token) como método de autenticação utilizando uma chave Token JWT.
+<p>Este sistema utiliza o JWT (Jason Web Token) como método de autenticação utilizando uma chave Token JWT.</p>
 
 <h3>Respostas de retornos</h3>
-<h5>[200 OK] Requisição autorizada com sucesso.</h5>
-<h5>[401 Unautorizhed] Não autorizado, senha ou usuário incorreto.</h5>
-<h5>[403 Forbidden] Usuário não possui autorização para este acesso.</h5>
+<p>[200 OK] Requisição autorizada com sucesso.</p>
+<p>[401 Unautorizhed] Não autorizado, senha ou usuário incorreto.</p>
+<p>[403 Forbidden] Usuário não possui autorização para este acesso.</p>
 
