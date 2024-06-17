@@ -6,15 +6,14 @@
 <li>Endpoints disponíveis</li>
 <li>Estrutura do Projeto</li>
 <li>Autenticação</li>
-<li>Erros comuns</li>
+<li>Respostas de retornos</li>
+<li>Prints do Insomnia</li>
+<li>Diagrama</li>
 
 <h3>Ferramentas utilizadas</h3>
 <li>IntelliJ IDEA Community Edition</li>
 <li>Maven</li>
 <li>MongoDB Compass</li>
-<li>Respostas de retornos</li>
-<li>Prints do Insomnia</li>
-<li>Diagrama</li>
 
 <h3>Endpoints disponíveis</h3>
 <p>POST /login: Endpoint para obter uma autenticação JWT</p>
