@@ -47,6 +47,33 @@
 
 ![LoginInsomnia](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/b6864e84-3d22-4552-8472-ca6a1dfe1e90)
 
+<h4>Utilizando o Token:</h4>
+
+![loginToken](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/1ae9ff81-c5b9-41a2-8d40-3a52fdc00372)
+
+<h4>User:</h4>
+
+![loginuser](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/9dda3cac-16a1-4d96-bda7-30a0281a73f0)
+
+<h4>Administrador:</h4>
+
+![LoginADM](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/342a64bb-489e-46a3-9454-89026fd9c07b)
+
+<h4>Usuario não autorizado</h4>
+
+![naoAutorizado](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/e9042cc0-33a9-4588-9c2b-c425c2fe90d1)
+
+<h4>Falha login administrador:</h4>
+
+![LoginFalhaADM](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/6dc8eb70-a2ce-4c86-ab48-554270a29d9c)
+
+<h4>Moderador:</h4>
+
+![LoginModerador](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/2d55ca44-819c-405b-9941-0e5017d378fe)
+
+<h4>Usuario comum:</h4>
+
+![loginUsuarioComum](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/04c03500-bee0-4476-8d9c-51fbc31bd5bd)
 
 <h3>Diagrama</h3>
 
