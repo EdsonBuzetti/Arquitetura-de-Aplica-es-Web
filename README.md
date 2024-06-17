@@ -43,4 +43,6 @@
 
 ![DiagramaJwt](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/0da474a0-4837-4387-9e6d-373537b03e39)
 
+![Link Figma](https://www.figma.com/board/tr8WgZqoGpmwjJyDOBAMU1/Untitled?node-id=0-1&t=LwBmlAU9o7Hl0ddk-0)
+
 
