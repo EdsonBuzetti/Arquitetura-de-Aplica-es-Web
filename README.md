@@ -12,7 +12,9 @@
 <li>IntelliJ IDEA Community Edition</li>
 <li>Maven</li>
 <li>MongoDB Compass</li>
-<li>Insomnia</li>
+<li>Respostas de retornos</li>
+<li>Prints do Insomnia</li>
+<li>Diagrama</li>
 
 <h3>Endpoints disponíveis</h3>
 <p>POST /login: Endpoint para obter uma autenticação JWT</p>
@@ -39,10 +41,18 @@
 <p>[401 Unautorizhed] Não autorizado, senha ou usuário incorreto.</p>
 <p>[403 Forbidden] Usuário não possui autorização para este acesso.</p>
 
+<h3>Prints do Insomnia</h3>
+
+<h4>Login:</h4>
+![LoginInsomnia](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/b6864e84-3d22-4552-8472-ca6a1dfe1e90)
+
+
 <h3>Diagrama</h3>
 
 ![DiagramaJwt](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/0da474a0-4837-4387-9e6d-373537b03e39)
 
-[Link Figma](https://www.figma.com/board/tr8WgZqoGpmwjJyDOBAMU1/Untitled?node-id=0-1&t=LwBmlAU9o7Hl0ddk-0)
+[Link do Figma](https://www.figma.com/board/tr8WgZqoGpmwjJyDOBAMU1/Untitled?node-id=0-1&t=LwBmlAU9o7Hl0ddk-0)
+
+
 
 
