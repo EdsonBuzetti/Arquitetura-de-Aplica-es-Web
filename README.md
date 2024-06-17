@@ -1,4 +1,4 @@
--<h1>Sistema de Autenticação e Autorização</h1>
+<h1>Sistema de Autenticação e Autorização</h1>
 <p>Este projeto foi desenvolvido para a aula de Arquitetura de Aplicações Web. Ele visa a implementação de uma API REST utilizando Spring Boot e autenticando com JWT (JSON Web Token). A API é configurada para o gerenciamento de usuários como (ADMIN, MODERADOR e USUARIOS COMUNS) e o controle dos acessos de forma segura.</p>
 
 <h3>Resumo</h3>
@@ -59,7 +59,7 @@
 
 ![LoginADM](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/342a64bb-489e-46a3-9454-89026fd9c07b)
 
-<h4>Usuario não autorizado</h4>
+<h4>Usuario não autorizado:</h4>
 
 ![naoAutorizado](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/e9042cc0-33a9-4588-9c2b-c425c2fe90d1)
 
