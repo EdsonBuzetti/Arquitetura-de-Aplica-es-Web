@@ -9,7 +9,8 @@
 <li>Erros comuns</li>
 
 <h3>Ferramentas utilizadas</h3>
-<li>IntelliJ IDEAD Community Edition</li>
+<li>IntelliJ IDEA Community Edition</li>
+<li>Maven</li>
 <li>MongoDB Compass</li>
 <li>Insomnia</li>
 
@@ -37,4 +38,9 @@
 <p>[200 OK] Requisição autorizada com sucesso.</p>
 <p>[401 Unautorizhed] Não autorizado, senha ou usuário incorreto.</p>
 <p>[403 Forbidden] Usuário não possui autorização para este acesso.</p>
+
+<h3>Diagrama</h3>
+
+![DiagramaJwt](https://github.com/EdsonBuzetti/Arquitetura-de-Aplicacoes-Web/assets/126629330/0da474a0-4837-4387-9e6d-373537b03e39)
+
 
